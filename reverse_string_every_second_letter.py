@@ -1,0 +1,3 @@
+#code below uses string slicing to reverse printing every 2nd letter
+sentence = input("Input a sentence that you want reversed:")
+print(sentence[::-2])
